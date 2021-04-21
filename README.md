@@ -1,4 +1,4 @@
-# Next bundle size simple alert
+# Nextjs Simple bundle size alerts
 
 ## Install
 
